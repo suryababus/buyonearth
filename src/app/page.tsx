@@ -124,7 +124,7 @@ export default function HomePage() {
                   </Button>
                 </Link>
                 <Link href="/perfume">
-                  <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white hover:text-black gap-2">
+                  <Button size="lg" variant="outline" className="border-white/30 bg-transparent text-white hover:bg-white hover:text-black gap-2">
                     Explore Perfumes
                   </Button>
                 </Link>
